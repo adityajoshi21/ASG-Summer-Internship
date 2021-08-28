@@ -9,5 +9,6 @@ Some of the technology that I learnt and made use of were:
 
 
 
-Live link: https://app.netlify.com/sites/asgpentesting/settings/domain#:~:text=Netlify%20domain%20names.-,asgpentesting.netlify.app,-Default%20subdomain
+Live link: https://asgpentesting.netlify.app/
+
 Summer Internship- DAIICT '21 
