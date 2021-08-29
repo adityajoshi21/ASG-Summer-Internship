@@ -9,6 +9,6 @@ Some of the technology that I learnt and made use of were:
 
 
 
-Live link: https://asgpentesting.netlify.app/
+Live link: https://asgconsultancy.netlify.app/
 
 Summer Internship- DAIICT '21 
